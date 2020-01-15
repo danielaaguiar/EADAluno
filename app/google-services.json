@@ -1,0 +1,93 @@
+{
+  "project_info": {
+    "project_number": "982558647415",
+    "firebase_url": "https://pgf2-f4837.firebaseio.com",
+    "project_id": "pgf2-f4837",
+    "storage_bucket": "pgf2-f4837.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:982558647415:android:1019d1049a37a357c9d272",
+        "android_client_info": {
+          "package_name": "com.eda.eadaluno"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "982558647415-ehilqqgimjve09uemignn8ec3of8i5vk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.eda.eadaluno",
+            "certificate_hash": "833b86a3beba4d749cf46f83aac10ea4a1077646"
+          }
+        },
+        {
+          "client_id": "982558647415-bc4fd8rgbsqfm72mk78jcf6sucotl21i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.eda.eadaluno",
+            "certificate_hash": "35e0056512e67cb6a1e1b81c1b4db28e51d0aeb1"
+          }
+        },
+        {
+          "client_id": "982558647415-546qe4ru8uf36kmr28hbuarko4r6h4l8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBHHE7ek0Pt8ghKO4_SN0enryeMGV6dOQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "982558647415-546qe4ru8uf36kmr28hbuarko4r6h4l8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:982558647415:android:3a92424dfdf03a13c9d272",
+        "android_client_info": {
+          "package_name": "com.eda.eadprofessor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "982558647415-6gkvva2svt3eq72itrc0igkosa8pdplr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.eda.eadprofessor",
+            "certificate_hash": "35e0056512e67cb6a1e1b81c1b4db28e51d0aeb1"
+          }
+        },
+        {
+          "client_id": "982558647415-546qe4ru8uf36kmr28hbuarko4r6h4l8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBHHE7ek0Pt8ghKO4_SN0enryeMGV6dOQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "982558647415-546qe4ru8uf36kmr28hbuarko4r6h4l8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

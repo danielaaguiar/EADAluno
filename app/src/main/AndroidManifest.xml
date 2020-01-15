@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:dist="http://schemas.android.com/apk/distribution"
+    package="com.eda.eadaluno">
+
+    <dist:module dist:instant="true" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".activity.SignInActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity  android:name=".activity.aulas.ActivityHabilidade" android:label="@string/activity_habilidade"></activity>
+        <activity android:name=".activity.aulas.ActivityLicoes" android:label="@string/activity_licoes">
+            <meta-data
+            android:name="android.support.PARENT_ACTIVITY"
+            android:value=".activity.aulas.ActivityHabilidade"/></activity>
+        <activity android:name=".activity.aulas.ActivityLicao" android:label="@string/activity_licao">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".activity.aulas.ActivityLicoes"/>
+        </activity>
+        <activity android:name=".activity.aulas.ActivityTarefa" android:label="@string/activity_tarefa">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".activity.aulas.ActivityLicao"/>
+        </activity>
+
+        <activity android:name=".activity.ActivityPontuacao" android:label="@string/activity_pontuiacao"></activity>
+        <activity android:name=".activity.ActivityForum" android:label="@string/activity_forum"></activity>
+    </application>
+
+</manifest>

@@ -1,0 +1,152 @@
+<resources>
+
+
+    <!--	A	-->
+    <string name="app_name">EAD Aluno</string>
+    <string name="activity_habilidade">Habilidades</string>
+    <string name="activity_licao">Lições</string>
+    <string name="activity_licoes">Lições</string>
+    <string name="activity_questao">Questões</string>
+    <string name="activity_tarefa">Tarefas</string>
+    <string name="activity_forum">Forum</string>
+    <string name="activity_pontuiacao">Pontuação</string>
+    <string name="activity_login">Login</string>
+
+    <!--	B	-->
+    <string name="btn_entrar">ENTRAR</string>
+    <string name="btn_salvar">SALVAR</string>
+    <string name="btn_deletar">DELETAR</string>
+    <string name="btn_cancelar">CANCELAR</string>
+    <string name="btn_enviar">ENVIAR</string>
+    <!--	C	-->
+
+    <!--	D	-->
+    <string name="dialog_nova_habilidade">Nova Habilidade</string>
+    <string name="dialog_ver_habilidade">Ver Habilidade</string>
+    <string name="dialog_nova_licao">Nova Lição</string>
+    <string name="dialog_ver_licao">Ver Lição</string>
+    <string name="dialog_nova_tarefa">Nova Tarefa</string>
+    <string name="dialog_ver_tarefa">Ver Tarefa</string>
+    <string name="dialog_nova_questao">Nova Questao</string>
+    <string name="dialog_ver_questao">Ver Questao</string>
+
+    <!--	E	-->
+    <string name="edt_email">Email</string>
+    <string name="edt_senha">Senha</string>
+    <string name="edt_nome">Nome</string>
+    <string name="edt_descricao">Descricao</string>
+    <string name="edt_pontuacao">Pontuação</string>
+    <string name="edt_link_youtube">Código Youtube (Ex.: AmCZTWmMn9c). Observação: recomenda-se um vídeo de no máximo 10 minutos</string>
+    <string name="edt_link_pdf">Link PDF</string>
+    <string name="edt_validacao">Validação (V ou F)</string>
+    <string name="edt_link_imagem">Link imagem</string>
+    <string name="edt_enunciado">Coloque o enunciado da tarefa aqui...</string>
+    <string name="edt_Tipo">Tipo</string>
+    <string name="edt_Tempo">Tempo (s)</string>
+    <string name="edt_texto">Coloque o conteúdo da questão aqui...</string>
+    <string name="edt_mensagem">Colque sua mensagem aqui...</string>
+    <!--	F	-->
+
+    <!--	G	-->
+
+    <!--	H	-->
+
+    <!--	I	-->
+
+    <!--	J	-->
+
+    <!--	K	-->
+
+    <!--	L	-->
+
+    <!--	M	-->
+    <string name="menu_sign_out">Sair do app</string>
+    <!--	N	-->
+
+    <!--	O	-->
+
+    <!--	P	-->
+
+    <!--	Q	-->
+
+    <!--	R	-->
+
+    <!--	S	-->
+    <string name="sign_in">ENTRAR</string>
+    <!--	T	-->
+
+    <!--	U	-->
+
+    <!--	W	-->
+
+    <!--	X	-->
+
+    <!--	Y	-->
+
+    <!--	Z	-->
+
+    <!--	A	-->
+
+    <!--	B	-->
+
+    <!--	C	-->
+
+    <!--	D	-->
+
+    <!--	E	-->
+
+    <!--	F	-->
+
+    <!--	G	-->
+
+    <!--	H	-->
+
+    <!--	I	-->
+
+    <!--	J	-->
+
+    <!--	K	-->
+
+    <!--	L	-->
+
+    <!--	M	-->
+
+    <!--	N	-->
+
+    <!--	O	-->
+
+    <!--	P	-->
+
+    <!--	Q	-->
+
+    <!--	R	-->
+
+    <!--	S	-->
+
+    <!--	T	-->
+    <string name="title_home">Aulas</string>
+    <string name="title_dashboard">Pontuação</string>
+    <string name="title_notifications">Forum</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="modelo">MODELO</string>
+    <string name="verdadeira">Verdadeira</string>
+    <string name="falso">Falso</string>
+    <string name="tv_descricao">DESCRIÇÃO DA LIÇÃO</string>
+
+
+    <!--	U	-->
+
+    <!--	W	-->
+
+    <!--	X	-->
+
+    <!--	Y	-->
+
+    <!--	Z	-->
+
+
+</resources>
+
+
